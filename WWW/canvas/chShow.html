@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>汉字关系网</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<script src="d3.js"></script>
+	<script src="jquery.js"></script>
+	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+	<script src="chShow.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<body>
+<!-- 	<div class="log">
+		<p id="msg">
+		</p>
+	</div>
+	<div class="top">
+		<input type="text" class="input" id="search" placeholder="请输入要查找的字">
+	</div>
+	<div class="yxFrame" id="yxMsg">
+	</div>
+	<div class="right">
+		<button class="button" id="button">汉字网</button>
+	</div> -->
+	<!-- <p id="log" style="margin-top: 35px; margin-left: 10px"></p> -->
+
+	<script type="text/javascript" charset="utf-8" async defer>
+		$('#search').keypress(function(e) {
+			var eCode = e.keyCode ? e.keyCode : e.which ? e.which : e.charCode;
+			if (eCode == 13) {
+				var _word = $(this).val();
+				if (_word != '') {
+					$(this).val('');
+					search(_word);
+				}
+			}
+		});
+		$('button').click(function() {
+			document.location.href ='hz';
+		});
+	</script>
+</body>
+</html>

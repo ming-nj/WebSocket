@@ -1,0 +1,117 @@
+* {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+
+.top {
+	position: absolute;
+}
+.right {
+	position: absolute;
+	margin: 20px;
+	right: 0px;
+}
+div.point {
+	width: 40px;
+	height: 24px;
+	border-radius: 12px;
+	margin-top: 10px;
+	border: 1px solid #66716E;
+	color: #121313;
+	font-size: 14px;
+	text-align: center;
+	line-height: 24px;
+	margin-right: 10px;
+	float: left;
+}
+div.log {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	margin-top: 20px;
+	line-height: 24px;
+}
+.input {
+	width: 200px;
+	height: 30px;
+	margin: 20px;
+	padding-left: 4px;
+	font-size: 20px;
+}
+.button {
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.showMsg {
+	font-size: 20px;
+}
+
+div.yxFrame {
+	position: absolute;
+	margin-top: 60px;
+	width: 25%;
+}
+div.yxShow {
+	margin-top: 10px;
+}
+div.yxPoint {
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+	border: 1px solid #66716E;
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px;
+	background-color: #BCCAB7;
+}
+p.yxText {
+	line-height: 20px;
+	margin-left: 50px;
+}
+
+.AddHideButton {
+	position: absolute;
+	left: 10px;
+	top: 120px;
+	width: 100px;
+	height: 25px;
+	font-size: 12px;
+}
+.AddPointButton {
+	position: absolute;
+	left: 210px;
+	top: 120px;
+	width: 130px;
+	height: 25px;
+	font-size: 12px;
+}
+.SelectButton {
+	position: absolute;
+	left: 130px;
+	top: 120px;
+	width: 60px;
+	height: 25px;
+	font-size: 12px;
+	background-color: #AAD2AB;
+}
+div.AddShow {
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 150px;
+}
+div.AddPoint {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+div.AddText {
+	float: left;
+}
+div.AddInput {
+	float: left;
+}

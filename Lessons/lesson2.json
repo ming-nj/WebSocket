@@ -1,0 +1,976 @@
+{
+  "lessonId": 2, 
+  "lessonTitle": "number", 
+  "chapters": [
+    {
+      "practices": [
+        {
+          "Q_CiCards": [
+            5383
+          ], 
+          "Q_Pics": [
+            "1.jpg", 
+            "2.jpg", 
+            "3.jpg", 
+            "4.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct picture", 
+          "Q_Contents": [
+            "一/yī", 
+            "二/ér", 
+            "三/sān", 
+            "四/sì"
+          ], 
+          "Q_Answer": "三/sān", 
+          "Q_Sound": "3.MP3", 
+          "Q_ZiCards": [
+            490
+          ], 
+          "Q_Question": "three"
+        }, 
+        {
+          "Q_CiCards": [
+            5978
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct word", 
+          "Q_Contents": [
+            "one", 
+            "two", 
+            "three", 
+            "four"
+          ], 
+          "Q_Answer": "four", 
+          "Q_Question_PY": "sì", 
+          "Q_Sound": "4.mp3", 
+          "Q_ZiCards": [
+            548
+          ], 
+          "Q_Question": "四"
+        }, 
+        {
+          "Q_CiCards": [
+            6688, 
+            2164, 
+            9448
+          ], 
+          "Q_Type": 2, 
+          "Q_ZiCards": [
+            616, 
+            177
+          ], 
+          "Q_Contents": [
+            "girls", 
+            "boys", 
+            "one", 
+            "three", 
+            "five", 
+            "four"
+          ], 
+          "Q_Answer": [
+            "five", 
+            "girls"
+          ], 
+          "Q_Question_PY": "wǔ_gè_nǚ hái.", 
+          "Q_Sound": "wugenvhai.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "五_个_女孩。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            7405, 
+            2164, 
+            4532
+          ], 
+          "Q_Type": 1, 
+          "Q_ZiCards": [
+            683, 
+            177
+          ], 
+          "Q_Answer": [
+            "oneman"
+          ], 
+          "Q_Question_PY": "yī_gè_nán rén", 
+          "Q_Sound": "yigenanren.MP3", 
+          "Q_Title": "write down the translation", 
+          "Q_Question": "一_个_男人", 
+          "A_Tips": "write down the translation", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            1671
+          ], 
+          "Q_Pics": [
+            "1.jpg", 
+            "2.jpg", 
+            "3.jpg", 
+            "4.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct picture", 
+          "Q_Contents": [
+            "一/yī", 
+            "二/ér", 
+            "三/sān", 
+            "四/sì"
+          ], 
+          "Q_Answer": "二/ér", 
+          "Q_Sound": "2.MP3", 
+          "Q_ZiCards": [
+            135
+          ], 
+          "Q_Question": "two"
+        }, 
+        {
+          "Q_ZiCards": [
+            683
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "一", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            135
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "二", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            177
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "个", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            1671
+          ], 
+          "Q_ZiCards": [
+            135
+          ], 
+          "Q_Type": 4, 
+          "Q_Title": "speak the sentence", 
+          "Q_Answer": "er4", 
+          "Q_Question_PY": "ér", 
+          "Q_Question": "二", 
+          "Q_Sound": "2.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            5383
+          ], 
+          "Q_ZiCards": [
+            490
+          ], 
+          "Q_Type": 4, 
+          "Q_Title": "speak the sentence", 
+          "Q_Answer": "san1", 
+          "Q_Question_PY": "sān", 
+          "Q_Question": "三", 
+          "Q_Sound": "3.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            5383, 
+            2164, 
+            4532
+          ], 
+          "Q_Type": 2, 
+          "Q_Contents": [
+            "man", 
+            "men", 
+            "one", 
+            "three", 
+            "five", 
+            "four"
+          ], 
+          "Q_Answer": [
+            "three", 
+            "men"
+          ], 
+          "Q_Question_PY": "sān_gè_nán rén.", 
+          "Q_Sound": "sangenanren.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "三_个_男人。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            548
+          ], 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "二/ér", 
+            "三/sān", 
+            "四/sì", 
+            "五/wǔ"
+          ], 
+          "Q_Answer": "四/sì", 
+          "Q_Question_PY": "*_gè_nán hái.", 
+          "Q_Sound": "sigenanhai.mp3", 
+          "Q_Title": "select the missing character", 
+          "Q_Question": "*_个_男孩。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            6688, 
+            2164, 
+            4650
+          ], 
+          "Q_Title": "write the chinese translation", 
+          "Q_Type": 1, 
+          "A_Tips": "write the chinese translation using pinyin or characters.you may write pinyin in one of the following three types:nan ren/nan2 ren2/男人", 
+          "Q_Answer": [
+            "wugenvren", 
+            "wu3ge4nv3ren2", 
+            "五个女人"
+          ], 
+          "Q_Question": "Five women", 
+          "Q_Sound": "wugenvren.MP3", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            5978
+          ], 
+          "Q_ZiCards": [
+            548
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "四", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            6688
+          ], 
+          "Q_ZiCards": [
+            616
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "五", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            5978
+          ], 
+          "Q_ZiCards": [
+            548
+          ], 
+          "Q_Type": 4, 
+          "Q_Title": "speak the sentence", 
+          "Q_Answer": "si4", 
+          "Q_Question_PY": "sì", 
+          "Q_Question": "四", 
+          "Q_Sound": "4.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            6688
+          ], 
+          "Q_ZiCards": [
+            616
+          ], 
+          "Q_Type": 4, 
+          "Q_Title": "speak the sentence", 
+          "Q_Answer": "wu3", 
+          "Q_Question_PY": "wǔ", 
+          "Q_Question": "五", 
+          "Q_Sound": "5.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            5978, 
+            2164, 
+            4650
+          ], 
+          "Q_Type": 2, 
+          "Q_Contents": [
+            "man", 
+            "woman", 
+            "one", 
+            "three", 
+            "five", 
+            "four"
+          ], 
+          "Q_Answer": [
+            "four", 
+            "woman"
+          ], 
+          "Q_Question_PY": "sì_gè_nǚ rén.", 
+          "Q_Sound": "sigenvren.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "四_个_女人。", 
+          "Q_JuCards": [
+            1
+          ]
+        }
+      ], 
+      "word": "一；二；三；四；五；个", 
+      "sentence": "number+个+object", 
+      "cardZis": [
+        683, 
+        135, 
+        490, 
+        548, 
+        616, 
+        177
+      ], 
+      "cardCis": [
+        7405, 
+        1671, 
+        5383, 
+        5978, 
+        6688, 
+        2164
+      ], 
+      "cardJus": [
+        1
+      ]
+    }, 
+    {
+      "cardZis": [
+        371, 
+        448, 
+        6, 
+        301, 
+        511
+      ], 
+      "word": "六；七；八；九；十", 
+      "cardCis": [
+        4141, 
+        4886, 
+        62, 
+        3475, 
+        5683
+      ], 
+      "practices": [
+        {
+          "Q_CiCards": [
+            4141
+          ], 
+          "Q_Pics": [
+            "9.jpg", 
+            "8.jpg", 
+            "6.jpg", 
+            "7.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct picture", 
+          "Q_Contents": [
+            "九/jǐu", 
+            "八/bā", 
+            "六/lìu", 
+            "七/qī"
+          ], 
+          "Q_Answer": "六/lìu", 
+          "Q_Sound": "6.MP3", 
+          "Q_ZiCards": [
+            371
+          ], 
+          "Q_Question": "six"
+        }, 
+        {
+          "Q_CiCards": [
+            4886
+          ], 
+          "Q_Pics": [
+            "9.jpg", 
+            "8.jpg", 
+            "6.jpg", 
+            "7.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct picture", 
+          "Q_Contents": [
+            "九/jǐu", 
+            "八/bā", 
+            "六/lìu", 
+            "七/qī"
+          ], 
+          "Q_Answer": "七/qī", 
+          "Q_Sound": "7.MP3", 
+          "Q_ZiCards": [
+            448
+          ], 
+          "Q_Question": "seven"
+        }, 
+        {
+          "Q_CiCards": [
+            4886, 
+            2164, 
+            9443
+          ], 
+          "Q_Type": 2, 
+          "Q_Contents": [
+            "man", 
+            "boys", 
+            "seven", 
+            "three", 
+            "five", 
+            "four"
+          ], 
+          "Q_Answer": [
+            "seven", 
+            "boys"
+          ], 
+          "Q_Question_PY": "qī_gè_nán hái.", 
+          "Q_Sound": "qigenanren.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "七_个_男孩。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            3475
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct word", 
+          "Q_Contents": [
+            "six", 
+            "seven", 
+            "eight", 
+            "nine"
+          ], 
+          "Q_Answer": "nine", 
+          "Q_Question_PY": "jǐu", 
+          "Q_Sound": "9.mp3", 
+          "Q_ZiCards": [
+            301
+          ], 
+          "Q_Question": "九"
+        }, 
+        {
+          "Q_CiCards": [
+            5683
+          ], 
+          "Q_Pics": [
+            "9.jpg", 
+            "8.jpg", 
+            "10.jpg", 
+            "7.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Title": "choose a correct picture", 
+          "Q_Contents": [
+            "九/jǐu", 
+            "八/bā", 
+            "十/shí", 
+            "七/qī"
+          ], 
+          "Q_Answer": "十/shí", 
+          "Q_Sound": "10.MP3", 
+          "Q_ZiCards": [
+            511
+          ], 
+          "Q_Question": "ten"
+        }, 
+        {
+          "Q_ZiCards": [
+            301
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "九", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            448
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "七", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            6
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "八", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            4886
+          ], 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "九/jǐu", 
+            "八/bā", 
+            "十/shí", 
+            "七/qī"
+          ], 
+          "Q_Answer": "八/bā", 
+          "Q_Question_PY": "*_gè_rén.", 
+          "Q_Sound": "bageren.mp3", 
+          "Q_Title": "select the missing character", 
+          "Q_Question": "*_个_人。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            4141, 
+            2164, 
+            4650
+          ], 
+          "Q_Title": "speak the sentence", 
+          "Q_Type": 4, 
+          "Q_Answer": "liu4 ge4 nan2 ren2", 
+          "Q_Question_PY": "lìu_gè_nán rèn.", 
+          "Q_Question": "六_个_男人。", 
+          "Q_Sound": "liugenanren.MP3", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            4886, 
+            2164, 
+            9443
+          ], 
+          "Q_Title": "speak the sentence", 
+          "Q_Type": 4, 
+          "Q_Answer": "qi1 ge4 nan2 hai2", 
+          "Q_Question_PY": "qī_gè_nán hái.", 
+          "Q_Question": "七_个_男孩。", 
+          "Q_Sound": "qigenanhai.MP3", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            5683, 
+            2164, 
+            425
+          ], 
+          "Q_Title": "write the chinese translation", 
+          "Q_Type": 1, 
+          "A_Tips": "write the chinese translation using pinyin or characters.you may write pinyin in one of the following three types:nan ren/nan2 ren2/男人", 
+          "Q_Answer": [
+            "shigenvren", 
+            "shi2ge4nv3ren2", 
+            "十个女人"
+          ], 
+          "Q_Question": "ten women", 
+          "Q_Sound": "shigenvren.MP3", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            3475, 
+            2164, 
+            9443
+          ], 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "six boys", 
+            "seven boys", 
+            "eight boys", 
+            "nine boys"
+          ], 
+          "Q_Answer": "nine boys", 
+          "Q_Question_PY": "jǐu_gè_nán hái.", 
+          "Q_Sound": "jiugenanhai.mp3", 
+          "Q_Title": "choose a correct translation", 
+          "Q_Question": "九_个_男孩。", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_ZiCards": [
+            371
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "六", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            511
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "十", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            3475, 
+            2164, 
+            9448
+          ], 
+          "Q_Type": 1, 
+          "Q_Answer": [
+            "eightgirls"
+          ], 
+          "Q_Question_PY": "bā_gè_nǚ hái", 
+          "Q_Sound": "bagenvhai.MP3", 
+          "Q_Title": "write down the translation", 
+          "Q_Question": "八_个_女孩", 
+          "A_Tips": "write down the translation", 
+          "Q_JuCards": [
+            1
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            5683, 
+            2164, 
+            9448
+          ], 
+          "Q_Title": "speak the sentence", 
+          "Q_Type": 4, 
+          "Q_Answer": "shi2 ge4 nv3 hai2", 
+          "Q_Question_PY": "shí_gè_nǚ hái.", 
+          "Q_Question": "十_个_女孩。", 
+          "Q_Sound": "shigenvhai.MP3", 
+          "Q_JuCards": [
+            1
+          ]
+        }
+      ]
+    }, 
+    {
+      "practices": [
+        {
+          "Q_Title": "choose a correct translation", 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "ten", 
+            "twenty", 
+            "eleven", 
+            "thirty"
+          ], 
+          "Q_Answer": "eleven", 
+          "Q_Question_PY": "shíyī", 
+          "Q_Question": "十一", 
+          "Q_Sound": "11.MP3", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_Title": "choose a correct translation", 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "forty-one", 
+            "twenty-one", 
+            "fifty-one", 
+            "thirty-one"
+          ], 
+          "Q_Answer": "thirty-one", 
+          "Q_Question_PY": "sānshíyī", 
+          "Q_Question": "三十一", 
+          "Q_Sound": "31.MP3", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            87
+          ], 
+          "Q_Pics": [
+            "100.jpg", 
+            "1000.jpg", 
+            "10.jpg", 
+            "10000.jpg"
+          ], 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "一百/yī bǎi", 
+            "一千/yī qiān", 
+            "十/shí", 
+            "一万/yī wàn"
+          ], 
+          "Q_Answer": "一百/yī bǎi", 
+          "Q_Sound": "100.MP3", 
+          "Q_Title": "choose a correct picture", 
+          "Q_Question": "one hundred", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            9443
+          ], 
+          "Q_Type": 2, 
+          "Q_Contents": [
+            "thirty", 
+            "one", 
+            "two", 
+            "girls", 
+            "boys", 
+            "men"
+          ], 
+          "Q_Answer": [
+            "thirty", 
+            "two", 
+            "boys"
+          ], 
+          "Q_Question_PY": "sān shí èr_gè_nán hái.", 
+          "Q_Sound": "sanshiergenanhai.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "三十二_个_男孩。", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            4983
+          ], 
+          "Q_Title": "choose a correct picture", 
+          "Q_Type": 0, 
+          "Q_Pics": [
+            "100.jpg", 
+            "1000.jpg", 
+            "10.jpg", 
+            "10000.jpg"
+          ], 
+          "Q_Contents": [
+            "一百/yī bǎi", 
+            "一千/yī qiān", 
+            "十/shí", 
+            "一万/yī wàn"
+          ], 
+          "Q_Answer": "一千/yī qiān", 
+          "Q_Question": "one thousand", 
+          "Q_Sound": "1000.MP3"
+        }, 
+        {
+          "Q_Title": "write the chinese translation", 
+          "Q_Type": 1, 
+          "A_Tips": "write the chinese translation using pinyin or characters.you may write pinyin in one of the following three types:nan ren/nan2 ren2/男人", 
+          "Q_Answer": [
+            "wushiqi", 
+            "wu3shi2qi1", 
+            "五十七"
+          ], 
+          "Q_Question": "fifty-seven", 
+          "Q_Sound": "57.MP3", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            87
+          ], 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "One hundred twenty-three/123", 
+            "One hundred thirty-two/132", 
+            "one thousand twenty-three/1023", 
+            "one thousand thirty-two/1032"
+          ], 
+          "Q_Answer": "One hundred twenty-three/123", 
+          "Q_Question_PY": "yībǎi_èrshísān", 
+          "Q_Sound": "123.MP3", 
+          "Q_Title": "choose a correct translation", 
+          "Q_Question": "一百_二十三", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_ZiCards": [
+            10
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "百", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            457
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "千", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            6502
+          ], 
+          "Q_Title": "choose a correct translation", 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "hundred", 
+            "thousand", 
+            "Million", 
+            "Billion"
+          ], 
+          "Q_Answer": "Million", 
+          "Q_Question_PY": "wàn", 
+          "Q_Question": "万", 
+          "Q_Sound": "wan.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            87
+          ], 
+          "Q_Title": "speak the sentence", 
+          "Q_Type": 4, 
+          "Q_Answer": "yi1 bai3 san1 shi2 yi1", 
+          "Q_Question_PY": "yībǎi_sānshíyī", 
+          "Q_Question": "一百_三十一", 
+          "Q_Sound": "131.MP3", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            6502, 
+            4983, 
+            87, 
+            5683
+          ], 
+          "Q_Title": "speak the sentence", 
+          "Q_Type": 4, 
+          "Q_Answer": "yi1 wan4 san1 qian1 yi1 bai3 wu3 shi2", 
+          "Q_Question_PY": "yīwàn_sānqiān_yībǎi_wǔshí", 
+          "Q_Question": "一万_三千_一百_五十", 
+          "Q_Sound": "13150.MP3", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_CiCards": [
+            7527
+          ], 
+          "Q_Title": "choose a correct translation", 
+          "Q_Type": 0, 
+          "Q_Contents": [
+            "hundred", 
+            "thousand", 
+            "Million", 
+            "Billion"
+          ], 
+          "Q_Answer": "Billion", 
+          "Q_Question_PY": "yì", 
+          "Q_Question": "亿", 
+          "Q_Sound": "yi4.MP3"
+        }, 
+        {
+          "Q_CiCards": [
+            7527, 
+            6502, 
+            4983
+          ], 
+          "Q_Type": 2, 
+          "Q_Contents": [
+            "thirty", 
+            "one", 
+            "hundred", 
+            "thousand", 
+            "Million", 
+            "Billion", 
+            "and", 
+            "four", 
+            "two", 
+            "five"
+          ], 
+          "Q_Answer": [
+            "One", 
+            "hundred", 
+            "and", 
+            "thirty", 
+            "million", 
+            "four", 
+            "thousand"
+          ], 
+          "Q_Question_PY": "yīyì_sānqiānwàn_sìqiān", 
+          "Q_Sound": "yiyisanqianwansiqian.mp3", 
+          "Q_Title": "select a correct translation", 
+          "Q_Question": "一亿_三千万_四千", 
+          "Q_JuCards": [
+            2
+          ]
+        }, 
+        {
+          "Q_ZiCards": [
+            600
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "万", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_ZiCards": [
+            692
+          ], 
+          "Q_Type": 3, 
+          "Q_Question": "亿", 
+          "Q_Title": "trace the arrow to write"
+        }, 
+        {
+          "Q_CiCards": [
+            6502, 
+            87
+          ], 
+          "Q_Type": 1, 
+          "Q_Answer": [
+            "Fivethousandeighthundred"
+          ], 
+          "Q_Question_PY": "wǔ qiān_bà bǎi", 
+          "Q_Sound": "5800.MP3", 
+          "Q_Title": "write down the translation", 
+          "Q_Question": "五千_八百", 
+          "A_Tips": "write down the translation", 
+          "Q_JuCards": [
+            2
+          ]
+        }
+      ], 
+      "word": "百；千；万；亿；十一", 
+      "sentence": "A number higher than 10", 
+      "cardZis": [
+        10, 
+        457, 
+        600, 
+        692
+      ], 
+      "cardCis": [
+        87, 
+        4983, 
+        6502, 
+        7527
+      ], 
+      "cardJus": [
+        2
+      ]
+    }
+  ], 
+  "lessonIcon": "titleIcon_number.jpg"
+}

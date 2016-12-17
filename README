@@ -1,0 +1,12 @@
+需要安装插件 ws, mysql, express
+
+npm install ws
+npm install mysql
+npm install express
+
+server.js 使用js编写的服务器代码
+Deal.js 服务器连接操作mysql的代码
+Data文件夹下是我们现有的一些汉字数据，里面几个.js文件是对这些数据进行操作的实现方法
+WWW是html5实现的汉字词汇关系网表现
+
+启动：node server.js

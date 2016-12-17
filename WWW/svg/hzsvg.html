@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>汉字关系网</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<script src="d3.js"></script>
+	<script src="jquery.js"></script>
+	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+	<script src="hzsvg.js" type="text/javascript" charset="utf-8" async defer></script>
+</head>
+<body>
+<!-- 	<div class="top">
+		<input type="text" class="input" id="search" placeholder="请输入要查找的字">
+		<div style="margin-left: 20px">
+			<div class="point" style="background-color: #D1E575">表音</div>
+			<div class="point" style="background-color: #7FE570">表义</div>
+			<div class="point" style="background-color: #E5ADB2">记号</div>
+			<div class="point" style="background-color: #B1E5E0">其他</div>
+		</div>
+	</div>
+	<div class="top right">
+		<button class="button" id="button">词汇关系网</button>
+	</div> -->
+
+	<script type="text/javascript" charset="utf-8" async defer>
+		$('#search').keypress(function(e) {
+			var eCode = e.keyCode ? e.keyCode : e.which ? e.which : e.charCode;
+			if (eCode == 13) {
+				var _word = $(this).val();
+				if (_word != '') {
+					$(this).val('');
+					search(_word);
+				}
+			}
+		});
+		$('button').click(function() {
+			document.location.href ='ch';
+		});
+	</script>
+</body>
+</html>
