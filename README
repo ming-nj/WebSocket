@@ -1,12 +1,14 @@
-需要安装插件 ws, mysql, express
-
+需要安装node.js
+使用到的插件 ws, mysql, express
+安装方式，命令行中cd到该路径下输入
 npm install ws
 npm install mysql
 npm install express
 
+server启动方式：命令行中输入命令 node server.js即可
+
+内容介绍：
 server.js 使用js编写的服务器代码
-Deal.js 服务器连接操作mysql的代码
+Deal.js 服务器连接操作mysql的代码（需要安装mysql）
 Data文件夹下是我们现有的一些汉字数据，里面几个.js文件是对这些数据进行操作的实现方法
 WWW是html5实现的汉字词汇关系网表现
-
-启动：node server.js
