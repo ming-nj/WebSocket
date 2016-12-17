@@ -33,7 +33,7 @@ socket.on('style', function(json) {
     kind: 'style',
     style: style
   };
-  WebViewBridge.send(JSON.stringify(json));
+  // WebViewBridge.send(JSON.stringify(json));
 });
 
 var width = window.innerWidth,
@@ -180,7 +180,7 @@ function DealData() {
     yxstr: yxstr,
     blnNull: blnNull,
   };
-  WebViewBridge.send(JSON.stringify(jsonMsg));
+  // WebViewBridge.send(JSON.stringify(jsonMsg));
 
   // if (nodes.length > 1) {
   //   yxList.forEach(function(yxkey) {
@@ -476,5 +476,5 @@ function Log(str) {
     kind: 'log',
     str: str
   };
-  WebViewBridge.send(JSON.stringify(json));
+  // WebViewBridge.send(JSON.stringify(json));
 }
